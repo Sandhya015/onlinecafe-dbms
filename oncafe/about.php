@@ -1,6 +1,6 @@
 <?php
 
-include 'components/connect.php';
+include 'components/connect.php';//connection to the databases
 
 session_start();
 
